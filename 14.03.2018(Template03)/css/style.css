@@ -1,0 +1,25 @@
+body{
+	background-color: #807979
+}
+div,h2{
+	text-align: center;
+}
+ div,#text{
+	padding: 10px;
+}
+div,img{
+	margin:12px;
+}
+.square{
+	width: 200px;
+	height: 200px;
+	background-color: white;
+	border-radius: 5%;
+	float: left;
+	margin: 40px;
+	border-style: solid;
+
+}
+div,#title1{
+	font-size: 15px;
+}
